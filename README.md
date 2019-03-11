@@ -32,3 +32,11 @@ http://localhost:5000/man?man=george
 http://localhost:5000/number
 ```
 
+## Полезные ссылки 
+
+Статья про cookie-session
+
+```
+http://expressjs.com/en/resources/middleware/cookie-session.html
+```
+
