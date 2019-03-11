@@ -1,0 +1,16 @@
+{
+  "name": "cookie-session-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kolotovkin Maxim",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^1.3.3",
+    "express": "^4.16.4"
+  }
+}
